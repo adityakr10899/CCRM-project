@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      // Configuration to run your Java main class
+      "type": "java",
+      "name": "Run CCRM",
+      "request": "launch",
+      "mainClass": "edu.ccrm.cli.Main",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}
+
