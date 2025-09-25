@@ -1,4 +1,3 @@
-````markdown
 # Java Project Repository
 
 ## Project Overview & How to Run
@@ -10,7 +9,6 @@ This project demonstrates various Java programming concepts aligned with the syl
   ```bash
   javac -d out $(find src -name "*.java")
   java -cp out edu.ccrm.Main
-````
 
 * **How to Run in Eclipse:**
 
